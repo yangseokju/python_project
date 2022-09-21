@@ -1,5 +1,4 @@
 # TTS(Text To Speech)
-# STT(Speech To Text)
 
 from gtts import gTTS
 from playsound import playsound
